@@ -14,7 +14,7 @@ The **Piscine** (or "pool") is a rigorous and immersive experience, and the work
 - **Shell Script**
 
 <p>
-  <img src="Shell.png" alt="Shell" width="500"/>
+  <img src="Shell.png" alt="Shell" width="700"/>
 </p>
 
 ### **C00 - C09**
@@ -38,34 +38,28 @@ The **Piscine** (or "pool") is a rigorous and immersive experience, and the work
 - **C09 - Makefile**
 
 <p>
-  <img src="Days.png" alt="DAYS" width="500"/>
+  <img src="Days.png" alt="DAYS" width="700"/>
 </p>
 
 ### **Rush00**
 - **rush00 - this about drawing in terminal work on team**
 
 <p>
-  <img src="Rush00.png" alt="RUSH" width="500"/>
+  <img src="Rush00.png" alt="RUSH" width="700"/>
 </p>
 
 ### **Exams (Exam00 to Exam03)**
 
-The exams are timed, individual projects designed to test everything learned during the pool. Each exam covers multiple subjects, testing understanding and the ability to solve complex problems efficiently.
-
 - **Exam00->100%** 
-  A challenging assignment that covers all the core concepts learned so far in the Piscine.
   
 - **Exam01->100%**  
-  Focused on memory management, algorithms, and complex problem-solving.
   
-- **Exam02->90%**  
-  More advanced algorithms and data structures, testing knowledge on how to manage large datasets and optimize code.
-  
+- **Exam02->90%**
+
 - **Exam03 or Final_Exam->60%**  
-  The final exam project, covering advanced concepts like multi-threading, inter-process communication, and more.
 
 <p>
-  <img src="Exams.png" alt="EXAM_42" width="500"/>
+  <img src="Exams.png" alt="EXAM_42" width="700"/>
 </p>
 
 ---
