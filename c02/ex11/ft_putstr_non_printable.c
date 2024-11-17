@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_putstr_non_printable.c                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: oufarah <marvin@42.fr>                     +#+  +:+       +#+        */
+/*   By: oufarah <oufarah@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/07/27 21:14:53 by oufarah           #+#    #+#             */
-/*   Updated: 2024/07/29 16:41:20 by oufarah          ###   ########.fr       */
+/*   Updated: 2024/11/17 21:20:40 by oufarah          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -21,7 +21,7 @@ void	ft_putstr_non_printable(char *str)
 {
 	int		a;
 	int		b;
-	char	*h;
+	unsigned char	*h;
 
 	h = "0123456789abcdef";
 	while (*str)
