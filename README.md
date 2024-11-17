@@ -14,7 +14,7 @@ The **Piscine** (or "pool") is a rigorous and immersive experience, and the work
 - **Shell Script**
 
 <p>
-  <img src="Shell.png" alt="Shell" width="150"/>
+  <img src="Shell.png" alt="Shell" width="500"/>
 </p>
 
 ### **C00 - C09**
@@ -38,14 +38,14 @@ The **Piscine** (or "pool") is a rigorous and immersive experience, and the work
 - **C09 - Makefile**
 
 <p>
-  <img src="Days.png" alt="DAYS" width="150"/>
+  <img src="Days.png" alt="DAYS" width="500"/>
 </p>
 
 ### **Rush00**
 - **rush00 - this about drawing in terminal work on team**
 
 <p>
-  <img src="Rush00.png" alt="RUSH" width="150"/>
+  <img src="Rush00.png" alt="RUSH" width="500"/>
 </p>
 
 ### **Exams (Exam00 to Exam03)**
@@ -65,7 +65,7 @@ The exams are timed, individual projects designed to test everything learned dur
   The final exam project, covering advanced concepts like multi-threading, inter-process communication, and more.
 
 <p>
-  <img src="Exams.png" alt="EXAM_42" width="150"/>
+  <img src="Exams.png" alt="EXAM_42" width="500"/>
 </p>
 
 ---
