@@ -78,9 +78,9 @@ To run any of the projects from this repository, follow the steps below:
     cd Pool_42
     ```
 
-3. Compile the C files using `gcc` or your preferred C compiler:
+3. Compile the C files using `gcc` or `cc` your preferred C compiler:
     ```bash
-    gcc -o project_name project_name.c
+    cc -o project_name project_name.c
     ```
 
 4. Run the compiled project:
@@ -94,6 +94,8 @@ Make sure to check each project’s individual folder for specific instructions 
 
 ## Technologies Used
 
+- **Shell**
+
 - **C Programming Language**  
   All projects are written in C, utilizing standard libraries and system calls.
 
@@ -105,27 +107,8 @@ Make sure to check each project’s individual folder for specific instructions 
 
 ---
 
-## Contributing
+## Author
+*Oussama FARAH*
 
-While this repository represents my personal projects during the **1337 Khouribga** pool, you are welcome to explore and learn from the code. If you find improvements or fixes, feel free to fork the repository and create a pull request.
-
----
-
-## Contact
-
-For any questions or collaborations, feel free to reach out:
-
-- [Instagram](https://www.instagram.com/oussama._.farah/)
-- Email: oussama05farah@gmail.com
-
----
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## Acknowledgements
-
-A big thank you to the **42 Network**, the **1337 Khouribga** pool, my peers, and mentors for providing the resources, challenges, and community to learn and grow as a developer.
+- 📱 **Instagram**: [@oussama._.farah](https://www.instagram.com/oussama._.farah/)
+- ✉️ **Email**: [oussama05farah@gmail.com](mailto:oussama05farah@gmail.com)
